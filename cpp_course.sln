@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Урок 14", "Урок 14", "{827CA74A-3527-4450-82AC-DB7E4A0FBB7B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Урок 15", "Урок 15", "{B92DF133-28E4-44F0-9798-A95B3CE43748}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ДЗ", "ДЗ", "{6935585F-11A1-4818-A5A3-43BEE49541A4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Самостоятельные работы", "Самостоятельные работы", "{34407213-0C39-456B-AD6A-1CD06FB61759}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Task_1", "Урок 14\ДЗ\Task_1\Task_1.vcxproj", "{ED3F75B7-CC50-47EA-B3DC-B43E180B2185}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Task_2", "Урок 14\ДЗ\Task_2\Task_2.vcxproj", "{FD10D2B5-6150-42E2-91A1-B0655D262D94}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED3F75B7-CC50-47EA-B3DC-B43E180B2185}.Debug|x64.ActiveCfg = Debug|x64
+		{ED3F75B7-CC50-47EA-B3DC-B43E180B2185}.Debug|x64.Build.0 = Debug|x64
+		{ED3F75B7-CC50-47EA-B3DC-B43E180B2185}.Debug|x86.ActiveCfg = Debug|Win32
+		{ED3F75B7-CC50-47EA-B3DC-B43E180B2185}.Debug|x86.Build.0 = Debug|Win32
+		{ED3F75B7-CC50-47EA-B3DC-B43E180B2185}.Release|x64.ActiveCfg = Release|x64
+		{ED3F75B7-CC50-47EA-B3DC-B43E180B2185}.Release|x64.Build.0 = Release|x64
+		{ED3F75B7-CC50-47EA-B3DC-B43E180B2185}.Release|x86.ActiveCfg = Release|Win32
+		{ED3F75B7-CC50-47EA-B3DC-B43E180B2185}.Release|x86.Build.0 = Release|Win32
+		{FD10D2B5-6150-42E2-91A1-B0655D262D94}.Debug|x64.ActiveCfg = Debug|x64
+		{FD10D2B5-6150-42E2-91A1-B0655D262D94}.Debug|x64.Build.0 = Debug|x64
+		{FD10D2B5-6150-42E2-91A1-B0655D262D94}.Debug|x86.ActiveCfg = Debug|Win32
+		{FD10D2B5-6150-42E2-91A1-B0655D262D94}.Debug|x86.Build.0 = Debug|Win32
+		{FD10D2B5-6150-42E2-91A1-B0655D262D94}.Release|x64.ActiveCfg = Release|x64
+		{FD10D2B5-6150-42E2-91A1-B0655D262D94}.Release|x64.Build.0 = Release|x64
+		{FD10D2B5-6150-42E2-91A1-B0655D262D94}.Release|x86.ActiveCfg = Release|Win32
+		{FD10D2B5-6150-42E2-91A1-B0655D262D94}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{6935585F-11A1-4818-A5A3-43BEE49541A4} = {827CA74A-3527-4450-82AC-DB7E4A0FBB7B}
+		{34407213-0C39-456B-AD6A-1CD06FB61759} = {827CA74A-3527-4450-82AC-DB7E4A0FBB7B}
+		{ED3F75B7-CC50-47EA-B3DC-B43E180B2185} = {6935585F-11A1-4818-A5A3-43BEE49541A4}
+		{FD10D2B5-6150-42E2-91A1-B0655D262D94} = {6935585F-11A1-4818-A5A3-43BEE49541A4}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DF2E2B16-73AD-4D7B-ACB9-69AAAB066DA4}
+	EndGlobalSection
+EndGlobal
